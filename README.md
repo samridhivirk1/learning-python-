@@ -1,51 +1,52 @@
-  **🐍 Learning Python**
+  ## 🐍 Learning Python
 
 Welcome to my Learning Python repository!
 This repo contains my Python practice code, examples, and small projects as I learn Python from the basics to more advanced concepts.
 
-*📌 About This Repository*
+# 📌 About This Repository
 
 This repository is created to:
-Learn Python step by step
-Practice concepts with code examples
-Build a strong foundation in programming
-Track my learning progress
+1. Learn Python step by step
+2. Practice concepts with code examples
+3. Build a strong foundation in programming
+4. Track my learning progress
 All programs here are written in a simple and beginner-friendly way.
 
-*🧠 Topics Covered*
+# 🧠 Topics Covered
 
 Python Basics
-Variables & Data Types
-Input & Output
-Conditional Statements (if, else, elif)
-Loops (for, while)
-Functions
-Lists, Tuples, Sets & Dictionaries
-Strings
-Basic Programs & Practice Problems
+1. Variables & Data Types
+2. Input & Output
+3. Conditional Statements (if, else, elif)
+4. Loops (for, while)
+5. Functions
+6. Lists, Tuples, Sets & Dictionaries
+7. Strings
+8. Basic Programs & Practice Problems
 (More topics will be added as I learn 🚀)
 
-*🎯 Purpose*
+# 🎯 Purpose
 
 I made this repository to:
-Improve my coding skills
-Practice regularly
-Prepare for exams and future projects
-Share my learning journey on GitHub
+- Improve my coding skills
+- Practice regularly
+- Prepare for exams and future projects
+- Share my learning journey on GitHub
 
-*🌱 Future Plans*
+# 🌱 Future Plans
 
-Add more practice programs
-Learn Object-Oriented Programming (OOP)
-Work on small Python projects
-Improve code quality and structure
+- Add more practice programs
+- Learn Object-Oriented Programming (OOP)
+- Work on small Python projects
+- Improve code quality and structure
 
-*🤝 Contributing*
+# 🤝 Contributing
 
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
-*⭐ Support*
+# ⭐ Support
 
 If you find this repository helpful, consider giving it a ⭐
+
 It motivates me to keep learning and improving 😊
 
